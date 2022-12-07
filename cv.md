@@ -19,7 +19,7 @@ Automobile customs points
 
 ## 2019- present time
 **Specialist in working with clients** 
-Place: Customs representative LLC "Tagents"
+Place: Customs representative LLC "T-Agent"
 Minsk
 **Major Duties:**
 * providing information on the issues related to customs regulations
