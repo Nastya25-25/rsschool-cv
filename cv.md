@@ -12,8 +12,6 @@ Automobile customs points
   * export
   * re-export
   * re-import
-  * processing for home use
-  * processing at the customs territory
   * warehousing
   * transit, etc
 
