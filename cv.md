@@ -29,3 +29,7 @@ Minsk
 **2011-2016:**
 Belarusian National Technical University:
 department of customs affairs
+
+# LANGUAGE
+English
+Level: Upper-intermediate
